@@ -1,4 +1,4 @@
-# University Projects
+# University Repository
 
 This repository contains a selection of my university projects developed in C++ and Java during my Computer Science studies.
 
