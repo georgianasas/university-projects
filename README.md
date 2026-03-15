@@ -24,3 +24,26 @@ university-projects/
 │
 ├── README.md
 └── .gitignore
+```
+
+## Project Descriptions 
+
+### C++
+
+**CandyShopManagement**  
+A C++ project focused on object-oriented programming, layered design, and application logic.  
+It includes entities, repositories, services, validation, and a console-based user interface for managing products and operations in a candy shop scenario.
+
+**DataStructures-ATM-Simulation**  
+A C++ project centered on data structures and transaction processing.  
+It simulates ATM-related operations and highlights the implementation and usage of custom structures, collections, iterators, and core problem-solving techniques.
+
+### Java
+
+**PastryShopManagement**  
+A Java project that combines object-oriented programming with layered architecture, repositories, and multiple persistence approaches.  
+The project includes text, binary, and database-related components, as well as testing and JavaFX elements, demonstrating more complex academic application design.
+
+**RecipeManager**  
+A Java project focused on application structure, database interaction, and object-oriented design.  
+It manages recipe-related data through repository and service layers and reflects practical work with Java, Maven, and database connectivity.
